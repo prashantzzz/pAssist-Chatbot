@@ -1,5 +1,4 @@
 # pAssist-Chatbot
-to be edited
 Following are the features of this application
 
 # The app can: 
