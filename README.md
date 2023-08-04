@@ -1,5 +1,6 @@
 # pAssist-Chatbot
 Following are the features of this application
+Download it from: http://bit.ly/pAssist 
 
 # The app can: 
 •>Chat with you(type 'clear' to clear chats)
