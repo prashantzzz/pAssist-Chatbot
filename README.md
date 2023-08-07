@@ -12,7 +12,7 @@ Download it from: http://bit.ly/pAssist
 
 •>Play/Search directly on given website e.g.'play emptiness on youtube'
 			     or 'search phones under 20000 on flipkart'
-
+ 
 •>Raise/lower brightness & volume
 
 •>Write akinator to play the mind reading game akinator
