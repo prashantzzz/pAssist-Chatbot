@@ -1,6 +1,5 @@
 # pAssist-Chatbot
 Following are the features of this application
-See it working: *** 
 See it working: https://youtube.com/shorts/8d0UhFtCII0
 
 # The app can: 
